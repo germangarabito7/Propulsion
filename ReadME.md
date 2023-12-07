@@ -1,12 +1,7 @@
 # Diseño de Sistema de Propulsión de Cohetes
 
-## Descripción del Proyecto
-
-Este proyecto proporciona herramientas y cálculos para el diseño preliminar de sistemas de propulsión de cohetes. Incluye estimaciones de masa, dimensiones y parámetros clave para diversos componentes del sistema.
-
 ## Objetivo
-
-El objetivo principal de este código es facilitar la planificación inicial y el diseño preliminar de sistemas de propulsión de cohetes. Las tareas específicas incluyen:
+Este código facilita el diseño preliminar de sistemas de propulsión liquidas simples para de cohetes. Las tareas específicas incluyen:
 
 - Estimación de la masa del sistema.
 - Selección de propelentes basada en el rendimiento esperado.
